@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTDownloader", "WpfApp1\YTDownloader.csproj", "{7A98FFA2-15B3-44BE-BFCE-F99059F6F963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A98FFA2-15B3-44BE-BFCE-F99059F6F963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A98FFA2-15B3-44BE-BFCE-F99059F6F963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A98FFA2-15B3-44BE-BFCE-F99059F6F963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A98FFA2-15B3-44BE-BFCE-F99059F6F963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94578CA2-83C5-4646-A698-18056F872EAC}
+	EndGlobalSection
+EndGlobal
